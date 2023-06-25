@@ -6,7 +6,7 @@ English | [简体中文](./README.zh-CN.md) | [日本語](./README_JA-JP.md) | R
 
 Anse is a fully optimized UI for AI Chats.
 
-- 🍿 **Live preview**: https://anse.app
+- 🍿 **Live preview**: anse77.netlify.app/
 - 📖 **Documentation**: https://docs.anse.app
 - ✨ **Release Notes**: https://github.com/anse-app/anse/releases
 
